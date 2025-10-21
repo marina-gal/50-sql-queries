@@ -1,1 +1,1 @@
-1. Find duplicates by Email Address
+# 1. Find duplicates by Email Address
