@@ -1,7 +1,9 @@
 # 50-sql-queries
 
-This repository is based on a LinkedIn post by **Tajamul Khan**, who shared a collection of **50 SQL interview queries** frequently used for analytical and technical interviews.
+This repository is inspired by a LinkedIn post by **Tajamul Khan**, who shared a collection of **50 SQL interview queries** commonly used in analytical and technical interviews.
 
-I have used these queries as a **learning reference** and applied them to the **AdventureWorks2019** sample database in order to practice solving real business-related questions using SQL.  
+The original questions were used as a **learning foundation**, but each query has been **adapted and enhanced** to fit the **AdventureWorks2019** sample database.  
 
-Each query has been adapted, tested, and documented with the goal of improving both technical proficiency and business problem-solving skills.
+Rather than reproducing the same examples, I expanded several queries to include **more complete business insights** .
+
+Each query was rewritten, tested, and documented with the goal of improving both **technical SQL proficiency** and **real-world problem-solving skills**.
