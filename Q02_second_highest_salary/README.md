@@ -1,4 +1,4 @@
-**Retrieve the second highest salary of the data?**
+***Question 2 - Retrieve the second highest salary of the data?***
 There are different ways of querying or answering this question: 
 
 a) **MAX() function**
