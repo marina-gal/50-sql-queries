@@ -23,4 +23,4 @@ There are different ways of querying or answering this question:
 **b) DENSE_RANK()OVER()**
 <img width="940" height="530" alt="image" src="https://github.com/user-attachments/assets/b32234d4-fe68-4097-b5fa-fcbeddea7c4b" />
 
-**c) COUNT_ROW()OVER()**
+**c) ROW_NUMBER()OVER()**
