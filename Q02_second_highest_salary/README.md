@@ -15,6 +15,9 @@ There are different ways of querying or answering this question:
 <img width="899" height="625" alt="image" src="https://github.com/user-attachments/assets/ab6b8a5d-a7e4-483d-a51c-d1d6686628e6" />
 
 ***Question 2.1 - Who is this person?***
-**a) TOP 1**
+**a) TOP 1 & MAX()**
 
-<img width="891" height="746" alt="image" src="https://github.com/user-attachments/assets/47a644bc-3d22-425c-89ba-3516e6e347f0" />
+<img width="897" height="573" alt="image" src="https://github.com/user-attachments/assets/cadcb4ef-11ce-4036-97f5-d0dd7da23700" />
+
+**b) DENSE_RANK() OVER()**
+
