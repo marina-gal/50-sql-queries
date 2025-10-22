@@ -13,3 +13,5 @@ b) **DENSE_RANK() OVER () function**
 c) **ROW_NUMBER() OVER () function**
 
 <img width="899" height="625" alt="image" src="https://github.com/user-attachments/assets/ab6b8a5d-a7e4-483d-a51c-d1d6686628e6" />
+
+***Question 2.1 - Who is this person?***
