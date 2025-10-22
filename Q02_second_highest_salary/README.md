@@ -1,4 +1,5 @@
 ***Question 2 - Retrieve the second highest salary of the data?***
+
 There are different ways of querying or answering this question: 
 
 **a) MAX() function**
@@ -17,12 +18,12 @@ There are different ways of querying or answering this question:
 ***Question 2.1 - Who is this person?***
 
 **a) TOP 1 & MAX()**
-<img width="970" height="536" alt="image" src="https://github.com/user-attachments/assets/a48e9649-f863-42f7-9875-ba7473ab7fab" />
-
-**b) DENSE_RANK()OVER()**
-
 <img width="897" height="573" alt="image" src="https://github.com/user-attachments/assets/cadcb4ef-11ce-4036-97f5-d0dd7da23700" />
 
-**c) ROW_NUMBER()OVER()**
-
+**b) DENSE_RANK()OVER()**
 <img width="940" height="530" alt="image" src="https://github.com/user-attachments/assets/b32234d4-fe68-4097-b5fa-fcbeddea7c4b" />
+
+**c) ROW_NUMBER()OVER()**
+<img width="970" height="536" alt="image" src="https://github.com/user-attachments/assets/a48e9649-f863-42f7-9875-ba7473ab7fab" />
+
+
