@@ -4,5 +4,6 @@
 
 In this case, there are zero duplicates.
 
-***Question 1.1 - Find the repeated names in the Person table***
-<img width="612" height="440" alt="image" src="https://github.com/user-attachments/assets/dbe20d08-a149-4cc9-b38b-891d7efa2ca8" />
+***Question 1.1 - Find the repeated people who shares the same FirstName+LastName in the Person table***
+
+<img width="1000" height="475" alt="image" src="https://github.com/user-attachments/assets/7dd3cb12-d0df-4e3f-a629-5630e63da826" />
