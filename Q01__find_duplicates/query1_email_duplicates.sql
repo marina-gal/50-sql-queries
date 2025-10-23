@@ -1,4 +1,4 @@
--- 1.Find duplicates email addresses
+--Find duplicates email addresses
 SELECT EmailAddress, COUNT(*) AS Num_EmailAddress
 FROM [AdventureWorksDW2020].[dbo].[DimCustomer]
 GROUP BY  EmailAddress
