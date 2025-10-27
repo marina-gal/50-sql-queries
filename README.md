@@ -1,4 +1,4 @@
-# 50-sql-queries
+# Resolving Business Questions using SQL #
 
 This repository is inspired by a LinkedIn post by **Tajamul Khan**, who shared a collection of **50 SQL interview queries** commonly used in analytical and technical interviews.
 
