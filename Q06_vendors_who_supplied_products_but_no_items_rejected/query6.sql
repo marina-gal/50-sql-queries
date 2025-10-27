@@ -1,4 +1,5 @@
 -- Returning all vendors who supplied products BUT none of whose orders contained rejected products.
+-- We join les corresponding tables and add a condition "AND" to the get only a result where RejectedQty > 0. And after that, we only filter this result to the ones where IS NULL.
 
 select distinct
 		 v.BusinessEntityID as VendorID
